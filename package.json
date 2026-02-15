@@ -1,0 +1,10 @@
+{
+  "name": "example",
+  "type": "module",
+  "packageManager": "bun@1.3.8",
+  "scripts": {
+  },
+  "dependencies": {
+    "mycto_agent": "0.1.8"
+  }
+}
