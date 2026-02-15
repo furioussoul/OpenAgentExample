@@ -7,7 +7,7 @@ import { google, kimi, OpenAgent } from 'mycto_agent'
 //   baseURL: 'your_custom_endpoint',
 //   model: 'model_name',
 // })
-const agent = kimi("process.env.KIMI_API_KEY", 'kimi-k2.5-free')
+const agent = kimi("your api key", 'kimi-k2.5-free')
 
 
 // const agent = google('your_api_key', 'model_name') // With Google provider
